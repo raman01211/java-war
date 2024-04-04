@@ -18,4 +18,13 @@
   <build>
     <finalName>java-hello-world</finalName>
   </build>
+  
+  <!-- Add distributionManagement -->
+  <distributionManagement>
+    <repository>
+      <id>local-repo</id>
+      <name>Local Repository</name>
+      <url>file://${project.basedir}/target/repository</url>
+    </repository>
+  </distributionManagement>
 </project>
