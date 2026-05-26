@@ -1,4 +1,4 @@
-# java-war
+# Java Servlet WAR
 
 ![Java](https://img.shields.io/badge/Java-21-%23ED8B00?logo=openjdk)
 ![Maven](https://img.shields.io/badge/Maven-3.9-%23C71A36?logo=apache-maven)
